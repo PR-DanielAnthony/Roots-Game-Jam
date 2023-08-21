@@ -1,7 +1,6 @@
 # Roots-Game-Jam
 A project created in Global Game Jam. My role as one of the programmers was to implement surface detection and projectile mechanics.
 
-#Original Description
 You are a mushroom jumping through platforms. Every time you die you become roots.
 
 The roots persist across deaths, which become platforms you can walk on.
